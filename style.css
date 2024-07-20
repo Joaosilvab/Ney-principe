@@ -21,8 +21,9 @@ section {
     padding-top: 25px;
     padding-bottom: 25px;
     padding-left: 30px;
-    line-height: 30px;
+    line-height: 60px;
     font-size: 25px;
+    font-size: 3.5vw;
 }
 
 .normal {
