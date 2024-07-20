@@ -18,8 +18,8 @@ header {
 }
 
 section {
-    padding-top: 25px;
-    padding-bottom: 25px;
+    padding-top: 10vh;
+    padding-bottom: 10vh;
     padding-left: 30px;
     line-height: 2em;
     font-size: 3.5vw;
@@ -39,7 +39,7 @@ section {
     background-image: url("imagens/ney002.jpeg");
     background-color: black;
     color: white;
-    padding-bottom: 25px;
+    
 }
 
 .img >  p {
