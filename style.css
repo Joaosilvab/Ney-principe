@@ -1,0 +1,59 @@
+@charset "UTF 8";
+
+* {
+    margin: 0px;
+    padding: 0px;
+}
+html , body {
+    min-height: 100vh;
+}
+
+header {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    
+}
+
+section {
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 30px;
+    line-height: 30px;
+    font-size: 25px;
+}
+
+.normal {
+    
+    background-color: white;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.img {
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    background-image: url("imagens/ney002.jpeg");
+    background-color: black;
+    color: white;
+    padding-bottom: 25px;
+}
+
+.img >  p {
+    display: inline-block;
+    border-radius: 5px;
+    padding: 5px;
+    background-color: rgba(0, 0, 0, 0.455);
+    color: white;
+}
+
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    font-weight: bolder;
+}
